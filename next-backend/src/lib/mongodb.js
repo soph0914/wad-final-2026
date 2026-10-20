@@ -12,14 +12,16 @@ export function getClientPromise() {
       "Please add your Mongo URI to .env.local or set MONGODB_URI env variable",
     );
   }
-  if (process.env.NODE_ENV === "development") {
-    if (!globalClientPromise) {
-      const client = new MongoClient(uri, options);
-      globalClientPromise = client.connect();
-    }
-    return globalClientPromise;
-  } else {
+  // Reuse one connection per server instance (dev and production) so a
+  // serverless deployment does not open a new connection on every request.
+  if (!globalClientPromise) {
     const client = new MongoClient(uri, options);
-    return client.connect();
+    globalClientPromise = client.connect();
   }
+  return globalClientPromise;
+}
+
+export async function getDb() {
+  const client = await getClientPromise();
+  return client.db(process.env.MONGODB_DB || "online_course");
 }
