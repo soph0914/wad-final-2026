@@ -2,16 +2,23 @@
 
 ## Student Information
 
-- **Student Name:** <FILL IN>
-- **Student ID:** <FILL IN>
+- **Student Name:** Lin Lin Wai
+- **Student ID:** 6643008
 
 ## Links
 
-- **Frontend (deployed):** <FILL IN>
-- **Backend (deployed):** <FILL IN>
-- **Frontend repository:** <FILL IN>
-- **Backend repository:** <FILL IN>
-- **Screen recording:** <FILL IN>
+- **Frontend (deployed):** https://wad-final-2026-4vdd.vercel.app
+- **Backend (deployed):** https://wad-final-2026.vercel.app
+- **Frontend repository:** https://github.com/soph0914/wad-final-2026.git
+- **Backend repository:** https://github.com/soph0914/wad-final-2026.git
+- **Screen recording:** https://assumptionuniversity-my.sharepoint.com/personal/u6643008_au_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu6643008%5Fau%5Fedu%2FDocuments%2FRecordings%2FMeeting%20with%20LIN%20LIN%20WAI%20%2D%2D20261020%5F100522%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&
+referrerScenario=AddressBarCopied%2Eview%2E7fb1dd5e%2D739e%2D4031%2D88ad%2Dc842d771766f
+
+https://assumptionuniversity-my.sharepoint.com/personal/u6643008_au_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu6643008%5Fau%5Fedu%2FDocuments%2FRecordings%2FMeeting%20with%20LIN%20LIN%20WAI%20%2D%2D20261020%5F111014%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebfb96f07%2D0c3e%2D49ba%2Da2a8%2D18c559faff21
+
+https://assumptionuniversity-my.sharepoint.com/personal/u6643008_au_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu6643008%5Fau%5Fedu%2FDocuments%2FRecordings%2FMeeting%20with%20LIN%20LIN%20WAI%20%2D%2D20261020%5F120612%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E05b143a6%2D7fa4%2D4df6%2Dba0b%2Da67fd26b68aa
+
+
 
 ## Test Credentials
 
